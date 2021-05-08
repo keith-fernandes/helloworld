@@ -1,6 +1,6 @@
 # helloworld
 First repository
 
-Keith is a woman - that likes to be called as a girl yet.
-She's 30 not too young but always brave to live in every new challenge
+I'm Keith - a Brazilian woman, from the 90's.
+I'm living in Ireland and studying Bachelor of Science (Honours) in Computing and IT in CCT Colege. 
 
